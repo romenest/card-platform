@@ -1,0 +1,15 @@
+[submodule "card-client"]
+	path = card-client
+	url = https://github.com/romenest/card-client.git
+[submodule "card-websocket-server"]
+	path = card-websocket-server
+	url = https://github.com/romenest/card-websocket-server.git
+[submodule "card-auth-server"]
+	path = card-auth-server
+	url = https://github.com/romenest/card-auth-server.git
+[submodule "card-gateway-server"]
+	path = card-gateway-server
+	url = https://github.com/romenest/card-gateway-server.git
+[submodule "card-application-server"]
+	path = card-application-server
+	url = https://github.com/romenest/card-application-server.git
